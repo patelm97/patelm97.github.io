@@ -1,0 +1,10 @@
+---
+title: "About Me"
+author: "Milan"
+date: "1/18/2022"
+output: html_document
+---
+
+### My name is Milan Patel. I obtained my undergraduate degree at Virginia Commonwealth University.
+### I enjoy training in and out of the gym, playing video games, and playing with numbers.
+### The other tabs represent the work I have completed throughout my time at SMU.
